@@ -18,6 +18,7 @@ favicon: /Maxfav.png
 **Evaluating Resources**
 
 ---
+
 # Currency
 
 ## Key Question: When was the item of information published or produced?
@@ -72,7 +73,6 @@ favicon: /Maxfav.png
 
 ---
 
-
 # Issues with Accuracy
 
 - facts cannot be verified or are contradicted in other sources
@@ -96,6 +96,7 @@ favicon: /Maxfav.png
 - bibliographies, especially long bibliographies, are generally compiled by and for those doing research on that topic
 
 ---
+
 # C.R.A.A.P.
 
 Currency
@@ -108,4 +109,4 @@ Purpose
 layout: end
 ---
 
-----
+---
