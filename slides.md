@@ -60,7 +60,8 @@ favicon: /Maxfav.png
 ## Key Question: How free from error is this piece of information?
 
 <div class="scroll-box">
-- Are the sources appropriately cited in the text and listed in the references?
+
+  - Are the sources appropriately cited in the text and listed in the references?
 - Are quotations cited correctly and in context? Out of context quotations can be misleading and sometimes completely erroneous.
 - Are there exaggerations, omissions, or errors? These are difficulty to identify if you use only one source of information. Always use several different sources of information on your topic. Analyzing what different sources say about a topic is one way to understand that topic.
 - the same information can be found in other reliable sources
@@ -73,6 +74,7 @@ favicon: /Maxfav.png
 - quotations are correctly cited
 - acronyms are clearly defined at the beginning
 </div>
+
 ---
 
 # Issues with Accuracy
