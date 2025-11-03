@@ -60,7 +60,7 @@ class: scroll-box
 
 ## Key Question: How free from error is this piece of information?
 
-<div maxHeight:'100px'>
+<div maxHeight:"100px">
 - Are the sources appropriately cited in the text and listed in the references?
 - Are quotations cited correctly and in context? Out of context quotations can be misleading and sometimes completely erroneous.
 - Are there exaggerations, omissions, or errors? These are difficulty to identify if you use only one source of information. Always use several different sources of information on your topic. Analyzing what different sources say about a topic is one way to understand that topic.
