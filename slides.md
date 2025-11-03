@@ -103,11 +103,14 @@ favicon: /Maxfav.png
 
 # C.R.A.A.P.
 
+<v-clicks>
+
 Currency
 Relevance
 Authority
 Accuracy
 Purpose
+</v-clicks>
 
 ---
 layout: end
