@@ -74,6 +74,7 @@ class: scroll-box
 - quotations are correctly cited
 - acronyms are clearly defined at the beginning
 </div>
+
 ---
 
 # Issues with Accuracy
