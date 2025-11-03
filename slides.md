@@ -56,6 +56,8 @@ favicon: /Maxfav.png
 class: scroll-box
 ---
 
+```ts {*}{maxHeight:'100px'}
+
 # Accuracy
 
 ## Key Question: How free from error is this piece of information?
@@ -73,6 +75,7 @@ class: scroll-box
 - quotations are correctly cited
 - acronyms are clearly defined at the beginning
 
+```
 ---
 
 # Issues with Accuracy
