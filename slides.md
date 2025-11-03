@@ -60,7 +60,7 @@ class: scroll-box
 
 ## Key Question: How free from error is this piece of information?
 
-```ts {maxHeight:'120px'}
+<div style= "height: 200px;overflow-y: auto;">
 - Are the sources appropriately cited in the text and listed in the references?
 - Are quotations cited correctly and in context? Out of context quotations can be misleading and sometimes completely erroneous.
 - Are there exaggerations, omissions, or errors? These are difficulty to identify if you use only one source of information. Always use several different sources of information on your topic. Analyzing what different sources say about a topic is one way to understand that topic.
@@ -73,8 +73,7 @@ class: scroll-box
 - quotations are “in context”-the meaning of the original work is kept in the work which quotes the original
 - quotations are correctly cited
 - acronyms are clearly defined at the beginning
-
-```
+</div>
 ---
 
 # Issues with Accuracy
