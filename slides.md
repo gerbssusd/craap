@@ -59,7 +59,7 @@ favicon: /Maxfav.png
 
 ## Key Question: How free from error is this piece of information?
 
-<div class="scroll-box-8">
+<div style="height: 200px; overflow-y: auto;">
 
   - Are the sources appropriately cited in the text and listed in the references?
 - Are quotations cited correctly and in context? Out of context quotations can be misleading and sometimes completely erroneous.
