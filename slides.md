@@ -100,6 +100,8 @@ favicon: /Maxfav.png
 - bibliographies, especially long bibliographies, are generally compiled by and for those doing research on that topic
 
 ---
+layout: center
+---
 
 # C.R.A.A.P.
 
@@ -116,4 +118,3 @@ favicon: /Maxfav.png
 layout: end
 ---
 
----
