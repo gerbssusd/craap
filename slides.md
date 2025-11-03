@@ -105,11 +105,11 @@ favicon: /Maxfav.png
 
 <v-clicks>
 
-Currency
-Relevance
-Authority
-Accuracy
-Purpose
+  - Currency
+  - Relevance
+  - Authority
+  - Accuracy
+  - Purpose
 </v-clicks>
 
 ---
