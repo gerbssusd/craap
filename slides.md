@@ -60,7 +60,7 @@ class: scroll-box
 
 ## Key Question: How free from error is this piece of information?
 
-```ts {*}{maxHeight:'100px'}
+{maxHeight:'100px'}
 
 - Are the sources appropriately cited in the text and listed in the references?
 - Are quotations cited correctly and in context? Out of context quotations can be misleading and sometimes completely erroneous.
@@ -75,7 +75,6 @@ class: scroll-box
 - quotations are correctly cited
 - acronyms are clearly defined at the beginning
 
-```
 ---
 
 # Issues with Accuracy
