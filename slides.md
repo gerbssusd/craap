@@ -53,6 +53,8 @@ favicon: /Maxfav.png
 - organizations, agencies, institutions, corporations with active involvement or work in a particular subject area.
 
 ---
+class: scroll-box
+---
 
 # Accuracy
 
